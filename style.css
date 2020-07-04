@@ -1,0 +1,44 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #999;
+}
+
+div {
+	background-color: #AAA;
+	text-align: center;
+	min-height: 100vh;
+} 
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table {
+	background-color: #00FFFF;
+}
+
+input {
+	position: relative;
+	margin-top: 150px;
+	margin-bottom: 10px;
+}
+
+td {
+	border: 1px solid black;
+	text-align: center;
+	padding: 5px 10px;
+	background-color: #333;
+	color: white;
+	border-radius: 5px;
+}
+
+tr {
+	background-color: red;
+	border: 1px solid black;
+}
